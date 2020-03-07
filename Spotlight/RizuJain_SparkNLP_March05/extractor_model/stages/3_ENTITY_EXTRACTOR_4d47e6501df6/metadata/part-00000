@@ -1,1 +1,0 @@
-{"class":"com.johnsnowlabs.nlp.annotators.TextMatcherModel","timestamp":1583473358934,"sparkVersion":"2.4.5","uid":"ENTITY_EXTRACTOR_4d47e6501df6","paramMap":{"outputCol":"entites","mergeOverlapping":false,"inputCols":["token","sentence"]},"defaultParamMap":{"lazyAnnotator":false,"mergeOverlapping":false,"inputCols":["token"]}}
